@@ -1,6 +1,6 @@
 ## Thanks for dropping by :wave:
 
-I am Anubhav, a software developer for [@NCR](https://www.ncr.com/). I am a technology enthusiast and have 10+ years of experience in various .NET technologies.
+I am Anubhav, a software developer for [@Idemia](https://www.idemia.com). I am a technology enthusiast and have 12+ years of experience in various .NET technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anubhav%20Mahajan-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-mahajan/)](https://www.linkedin.com/in/anubhav-mahajan/)
 [![Instagram Badge](https://img.shields.io/badge/-@anubhavmahajan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhav_mahajan/)](https://instagram.com/anubhav_mahajan)
